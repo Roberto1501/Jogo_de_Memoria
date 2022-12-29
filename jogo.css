@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    height: 33%;
+    margin-top: 30px;
+}
+
+
+.inside{
+    border: 2px black solid;
+    padding: 70px;
+    box-shadow: 1px 1px 1px black;
+    
+}
